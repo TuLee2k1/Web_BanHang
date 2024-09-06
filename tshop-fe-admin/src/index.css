@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo {
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  margin: 30px 0;
+  color: white;
+}
+
+
+.navbar {
+  background-color: #005d63 !important;
+}
+
+.ant-menu-item-only-child:hover {
+  background-color: #dbdbdb;
+  color: black ;
+}
+
+.ant-menu-item-selected:hover {
+  background-color: #dbdbdb;
+  color: black !important;
+}
+
+
+.ant-menu-submenu-title:hover {
+background-color: #dbdbdb;
+}
+
+.ant-menu-item:hover {
+  background-color: #dbdbdb !important;
+  color: black !important;
+}
+
+.menu-navbar {
+  color: white;
+}
+
+.ant-menu-submenu-title:hover {
+  color: #000;
+}
+
+.ant-layout-sider-trigger {
+background-color: #005d63 !important;
+}
+
+.UserLogin{
+  text-align: right;
+}
+
+.ant-menu.ant-menu-root.ant-menu-inline.ant-menu-dark.menu-navbar.css-dev-only-do-not-override-d2lrxs {
+background-color: #005d63 !important;
+}
+
+.ant-menu.ant-menu-sub.ant-menu-inline{
+  background-color: #005d63 !important;
+}
+
+.custom-page-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.custom-page-header .ant-btn {
+  margin-right: 16px;
+}
+
+.custom-page-header .ant-typography {
+  margin: 0;
+}
